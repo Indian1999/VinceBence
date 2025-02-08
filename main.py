@@ -1,0 +1,1 @@
+print("Ezt a filet már VSC-ből hoztam létre.")
