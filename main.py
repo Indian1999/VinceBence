@@ -1,1 +1,1 @@
-print("Ezt a filet már VSC-ből hoztam létre.")
+input("trollkodok a branch-csel")
